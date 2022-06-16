@@ -48,7 +48,7 @@ def dev():
         
 def search():
     print('(1) Search StackOverflow')
-    print('(2) Search Amazon.ca')
+    print('(2) Search Dev stuff on Amazon.ca')
     print('(3) Search Github')
     
     
@@ -60,6 +60,10 @@ def search():
     if var4 == 1:
         var5 =(str(input('What would you like to search? ')))
         os.system('start chrome https://stackoverflow.com/search?q='+var5+' ')
+        
+
+    if var4 == 2:
+        os.system('start chrome https://www.amazon.ca/s?k=tech+gadgets&sprefix=tech+gad%2Caps%2C294&ref=nb_sb_ss_ts-doa-p_1_8')
     
     
     
