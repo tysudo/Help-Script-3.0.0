@@ -13,7 +13,7 @@ python -m pip install os
 python Script.py
 ```
 
-If you are on ___Mac__ do this ↓↓↓  ***DEPRECATED*** | ***If youwant to use any of the DEPRECATED code, please run old_code.py. OLD CODE MAY NOT WORK AS ANTICIPATED ***
+If you are on ___Mac__ do this ↓↓↓  ***DEPRECATED*** | *** If youwant to use any of the DEPRECATED code, please run old_code.py. OLD CODE MAY NOT WORK AS ANTICIPATED ***
 ```
 stty sane
 git clone https://github.com/tysudo/Help-Script-2.0.git
@@ -25,7 +25,7 @@ python -m pip install os
 python Script.py
 ```
 
-If on __Linux__ do this ↓↓↓ ***DEPRECATED*** | ***If youwant to use any of the DEPRECATED code, please run old_code.py. OLD CODE MAY NOT WORK AS ANTICIPATED ***
+If on __Linux__ do this ↓↓↓ ***DEPRECATED*** | *** If youwant to use any of the DEPRECATED code, please run old_code.py. OLD CODE MAY NOT WORK AS ANTICIPATED ***
 ```
 git clone https://github.com/tysudo/Help-Script-2.0.git
 cd The_Code
